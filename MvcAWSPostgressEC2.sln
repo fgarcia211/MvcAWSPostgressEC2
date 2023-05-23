@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAWSPostgressEC2", "MvcAWSPostgressEC2\MvcAWSPostgressEC2.csproj", "{C8C468E2-E90C-432F-9635-CBCC34A7268A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C468E2-E90C-432F-9635-CBCC34A7268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C468E2-E90C-432F-9635-CBCC34A7268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C468E2-E90C-432F-9635-CBCC34A7268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C468E2-E90C-432F-9635-CBCC34A7268A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA9D35C-3A6C-4B05-9125-CF34D88FB9E7}
+	EndGlobalSection
+EndGlobal
